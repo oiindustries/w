@@ -1,0 +1,80 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://oiindustries.co" resolutions="1x" timestamp="1607867203575">
+  <folder name="css">
+    <file name="site_global.css" crc="43224113"/>
+    <file name="master_a-master.css" crc="4195952646" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="4033017482" ref="index"/>
+    <file name="index.css" crc="364872574" ref="index"/>
+    <file name="nomq_index.css" crc="4251805369" ref="index"/>
+    <file name="iefonts_index.css" crc="3891321161" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="galanogrotesque-regular.woff" crc="4039148451"/>
+    <file name="galanogrotesque-regular.eot" crc="297936505"/>
+    <file name="galanogrotesque-regular.svg" crc="454665086"/>
+    <file name="galanogrotesque-heavy.woff" crc="4260962591"/>
+    <file name="galanogrotesque-heavy.eot" crc="4088755722"/>
+    <file name="galanogrotesque-heavy.svg" crc="3762389560"/>
+    <file name="galanogrotesque-italic.woff" crc="4254569609"/>
+    <file name="galanogrotesque-italic.eot" crc="4056209063"/>
+    <file name="galanogrotesque-italic.svg" crc="4273351010"/>
+    <file name="galanogrotesque-thin.woff" crc="3920520821"/>
+    <file name="galanogrotesque-thin.eot" crc="3882391611"/>
+    <file name="galanogrotesque-thin.svg" crc="3784798418"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="bg-u273-fr.png" crc="536643459" ref="index"/>
+    <file name="logow.png" crc="350287556" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="data.jpg" crc="4130813998" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="block.jpg" crc="327672897" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="riks.jpg" crc="367248274" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vr.jpg" crc="193369628" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="media.jpg" crc="4247734193" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="forecast.jpg" crc="4293609027" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lead.jpg" crc="50429296" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="data-u312-fr.jpg" crc="341407078" ref="index"/>
+    <file name="block-u381-fr.jpg" crc="21282949" ref="index"/>
+    <file name="riks-u393-fr.jpg" crc="295733743" ref="index"/>
+    <file name="vr-u490-fr.jpg" crc="178538788" ref="index"/>
+    <file name="media-u503-fr.jpg" crc="3880209897" ref="index"/>
+    <file name="forecast-u516-fr.jpg" crc="3937490087" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3916546441" seo="true" mt="1607867199299" redirect="true"/>
+</manifest>
