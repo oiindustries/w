@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://oiindustries.co" resolutions="1x" timestamp="1607867203575">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://oiindustries.co" resolutions="1x" timestamp="1607870072940">
   <folder name="css">
     <file name="site_global.css" crc="43224113"/>
-    <file name="master_a-master.css" crc="4195952646" ref="index"/>
+    <file name="master_a-master.css" crc="411984693" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="4033017482" ref="index"/>
-    <file name="index.css" crc="364872574" ref="index"/>
-    <file name="nomq_index.css" crc="4251805369" ref="index"/>
+    <file name="index.css" crc="158323239" ref="index"/>
+    <file name="nomq_index.css" crc="41365835" ref="index"/>
     <file name="iefonts_index.css" crc="3891321161" ref="index"/>
   </folder>
   <folder name="fonts">
@@ -75,6 +75,30 @@
     <file name="vr-u490-fr.jpg" crc="178538788" ref="index"/>
     <file name="media-u503-fr.jpg" crc="3880209897" ref="index"/>
     <file name="forecast-u516-fr.jpg" crc="3937490087" ref="index"/>
+    <file name="social_facebook_circle.png" crc="3930820923" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="social_instagram_circle.png" crc="3979581999" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="social_twitter_circle.png" crc="3958651531" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3916546441" seo="true" mt="1607867199299" redirect="true"/>
+  <file name="index.html" crc="240667429" seo="true" mt="1607870050793" redirect="true"/>
 </manifest>
