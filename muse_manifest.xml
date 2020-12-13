@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://oiindustries.co" resolutions="1x" timestamp="1607870072940">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://oiindustries.co" resolutions="1x" timestamp="1607870886034">
   <folder name="css">
     <file name="site_global.css" crc="43224113"/>
     <file name="master_a-master.css" crc="411984693" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="4033017482" ref="index"/>
-    <file name="index.css" crc="158323239" ref="index"/>
-    <file name="nomq_index.css" crc="41365835" ref="index"/>
+    <file name="index.css" crc="26966998" ref="index"/>
+    <file name="nomq_index.css" crc="3859768187" ref="index"/>
     <file name="iefonts_index.css" crc="3891321161" ref="index"/>
   </folder>
   <folder name="fonts">
@@ -100,5 +100,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="240667429" seo="true" mt="1607870050793" redirect="true"/>
+  <file name="index.html" crc="46738173" seo="true" mt="1607870876766" redirect="true"/>
 </manifest>
