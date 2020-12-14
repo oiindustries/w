@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://oiindustries.co" resolutions="1x" timestamp="1607937476200">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://oiindustries.co" resolutions="1x" timestamp="1607941982663">
   <folder name="css">
     <file name="site_global.css" crc="43224113"/>
-    <file name="master_a-master.css" crc="4015711932" ref="index:home-es:home-ru"/>
+    <file name="master_a-master.css" crc="128592425" ref="index:home-es:home-ru"/>
     <file name="nomq_preview_master_a-master.css" crc="168519075" ref="index:home-es:home-ru"/>
-    <file name="index.css" crc="4156222922" ref="index"/>
-    <file name="nomq_index.css" crc="3763351952" ref="index"/>
-    <file name="home-es.css" crc="4096390864" ref="home-es"/>
-    <file name="nomq_home-es.css" crc="199077927" ref="home-es"/>
-    <file name="home-ru.css" crc="3989931464" ref="home-ru"/>
+    <file name="index.css" crc="4267649271" ref="index"/>
+    <file name="nomq_index.css" crc="3967160820" ref="index"/>
+    <file name="home-es.css" crc="4256429521" ref="home-es"/>
+    <file name="nomq_home-es.css" crc="298145659" ref="home-es"/>
+    <file name="home-ru.css" crc="3857092891" ref="home-ru"/>
     <file name="nomq_home-ru.css" crc="3821285086" ref="home-ru"/>
   </folder>
   <folder name="fonts">
@@ -142,7 +142,7 @@
     <file name="home-es-favicon.ico" crc="4055264074" ref="home-es"/>
     <file name="home-ru-favicon.ico" crc="4055264074" ref="home-ru"/>
   </folder>
-  <file name="index.html" crc="4262744519" seo="true" mt="1607937462808" redirect="true"/>
-  <file name="home-es.html" crc="151741772" seo="true" mt="1607937462808" redirect="true"/>
-  <file name="home-ru.html" crc="336045914" seo="true" mt="1607937462808" redirect="true"/>
+  <file name="index.html" crc="68564149" seo="true" mt="1607941950859" redirect="true"/>
+  <file name="home-es.html" crc="146050918" seo="true" mt="1607941966832" redirect="true"/>
+  <file name="home-ru.html" crc="4061153457" seo="true" mt="1607937704394" redirect="true"/>
 </manifest>
