@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://oiindustries.co" resolutions="1x" timestamp="1607942290522">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://oiindustries.co" resolutions="1x" timestamp="1607942591638">
   <folder name="css">
     <file name="site_global.css" crc="43224113"/>
-    <file name="master_a-master.css" crc="128592425" ref="index:home-es:home-ru"/>
+    <file name="master_a-master.css" crc="3953865145" ref="index:home-es:home-ru"/>
     <file name="nomq_preview_master_a-master.css" crc="168519075" ref="index:home-es:home-ru"/>
     <file name="index.css" crc="4267649271" ref="index"/>
     <file name="nomq_index.css" crc="3967160820" ref="index"/>
-    <file name="home-es.css" crc="276338607" ref="home-es"/>
-    <file name="nomq_home-es.css" crc="3758880558" ref="home-es"/>
+    <file name="home-es.css" crc="4172724720" ref="home-es"/>
+    <file name="nomq_home-es.css" crc="192984950" ref="home-es"/>
     <file name="home-ru.css" crc="3857092891" ref="home-ru"/>
     <file name="nomq_home-ru.css" crc="3821285086" ref="home-ru"/>
   </folder>
@@ -35,7 +35,7 @@
     <file name="require.js" crc="4157109226" ref="index:home-es:home-ru"/>
   </folder>
   <folder name="images">
-    <file name="bg-u273-fr.png" crc="536643459" ref="index:home-ru:home-es"/>
+    <file name="bg-u273-fr.png" crc="536643459" ref="index:home-ru"/>
     <file name="logow.png" crc="350287556" ref="index:home-es:home-ru">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -55,6 +55,12 @@
       <caption webpage="home-ru" alt=""/>
       <caption webpage="home-ru" alt=""/>
       <caption webpage="home-ru" alt=""/>
+      <caption webpage="home-es" alt=""/>
+      <caption webpage="home-es" alt=""/>
+      <caption webpage="home-es" alt=""/>
+      <caption webpage="home-es" alt=""/>
+      <caption webpage="home-es" alt=""/>
+      <caption webpage="home-es" alt=""/>
       <caption webpage="home-es" alt=""/>
       <caption webpage="home-es" alt=""/>
       <caption webpage="home-es" alt=""/>
@@ -103,13 +109,13 @@
       <caption webpage="index" alt=""/>
       <caption webpage="home-es" alt=""/>
     </file>
-    <file name="data-u312-fr.jpg" crc="341407078" ref="index:home-ru:home-es"/>
-    <file name="block-u381-fr.jpg" crc="21282949" ref="index:home-ru:home-es"/>
-    <file name="riks-u393-fr.jpg" crc="295733743" ref="index:home-ru:home-es"/>
-    <file name="vr-u490-fr.jpg" crc="178538788" ref="index:home-ru:home-es"/>
-    <file name="media-u503-fr.jpg" crc="3880209897" ref="index:home-ru:home-es"/>
-    <file name="forecast-u516-fr.jpg" crc="3937490087" ref="index:home-ru:home-es"/>
-    <file name="social_facebook_circle.png" crc="3930820923" ref="index">
+    <file name="data-u312-fr.jpg" crc="341407078" ref="index:home-ru"/>
+    <file name="block-u381-fr.jpg" crc="21282949" ref="index:home-ru"/>
+    <file name="riks-u393-fr.jpg" crc="295733743" ref="index:home-ru"/>
+    <file name="vr-u490-fr.jpg" crc="178538788" ref="index:home-ru"/>
+    <file name="media-u503-fr.jpg" crc="3880209897" ref="index:home-ru"/>
+    <file name="forecast-u516-fr.jpg" crc="3937490087" ref="index:home-ru"/>
+    <file name="social_facebook_circle.png" crc="3930820923" ref="index:home-es">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -123,7 +129,7 @@
       <caption webpage="home-es" alt=""/>
       <caption webpage="home-es" alt=""/>
     </file>
-    <file name="social_instagram_circle.png" crc="3979581999" ref="index">
+    <file name="social_instagram_circle.png" crc="3979581999" ref="index:home-es">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -137,7 +143,7 @@
       <caption webpage="home-es" alt=""/>
       <caption webpage="home-es" alt=""/>
     </file>
-    <file name="social_twitter_circle.png" crc="3958651531" ref="index">
+    <file name="social_twitter_circle.png" crc="3958651531" ref="index:home-es">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -152,7 +158,7 @@
       <caption webpage="home-es" alt=""/>
     </file>
     <file name="home-favicon.ico" crc="4055264074" ref="index"/>
-    <file name="1200px-flag_of_the_united_kingdomsvg.jpg" crc="197820540" ref="index">
+    <file name="1200px-flag_of_the_united_kingdomsvg.jpg" crc="197820540" ref="index:home-es">
       <caption webpage="index" alt="English"/>
       <caption webpage="index" alt="English"/>
       <caption webpage="index" alt="English"/>
@@ -166,14 +172,21 @@
       <caption webpage="home-es" alt="English"/>
       <caption webpage="home-es" alt="English"/>
     </file>
-    <file name="flag_of_mexico.svg" crc="64079943" ref="index"/>
-    <file name="flag_of_mexico_poster_u3555.png" crc="486895110" ref="index"/>
-    <file name="20120812153730!flag_of_russia.svg" crc="4101030087" ref="index"/>
-    <file name="20120812153730!flag_of_russia_poster_u3563.png" crc="3833047806" ref="index"/>
+    <file name="flag_of_mexico.svg" crc="64079943" ref="index:home-es"/>
+    <file name="flag_of_mexico_poster_u3555.png" crc="486895110" ref="index:home-es"/>
+    <file name="20120812153730!flag_of_russia.svg" crc="4101030087" ref="index:home-es"/>
+    <file name="20120812153730!flag_of_russia_poster_u3563.png" crc="3833047806" ref="index:home-es"/>
     <file name="home-es-favicon.ico" crc="4055264074" ref="home-es"/>
     <file name="home-ru-favicon.ico" crc="4055264074" ref="home-ru"/>
+    <file name="bg-u3714-fr.png" crc="536643459" ref="home-es"/>
+    <file name="data-u3736-fr.jpg" crc="341407078" ref="home-es"/>
+    <file name="block-u3713-fr.jpg" crc="21282949" ref="home-es"/>
+    <file name="riks-u3725-fr.jpg" crc="295733743" ref="home-es"/>
+    <file name="vr-u3742-fr.jpg" crc="178538788" ref="home-es"/>
+    <file name="media-u3707-fr.jpg" crc="3880209897" ref="home-es"/>
+    <file name="forecast-u3745-fr.jpg" crc="3937490087" ref="home-es"/>
   </folder>
   <file name="index.html" crc="68564149" seo="true" mt="1607942176009" redirect="true"/>
-  <file name="home-es.html" crc="535694993" seo="true" mt="1607942262870" redirect="true"/>
+  <file name="home-es.html" crc="4269906136" seo="true" mt="1607942576970" redirect="true"/>
   <file name="home-ru.html" crc="4061153457" seo="true" mt="1607942176009" redirect="true"/>
 </manifest>
