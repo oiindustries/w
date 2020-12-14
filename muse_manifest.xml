@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://oiindustries.co" resolutions="1x" timestamp="1607937038453">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://oiindustries.co" resolutions="1x" timestamp="1607937210507">
   <folder name="css">
     <file name="site_global.css" crc="43224113"/>
-    <file name="master_a-master.css" crc="4262802632" ref="index:home-esp:home-rus"/>
-    <file name="nomq_preview_master_a-master.css" crc="4033017482" ref="index:home-esp:home-rus"/>
+    <file name="master_a-master.css" crc="4262802632" ref="index:home-es:home-ru"/>
+    <file name="nomq_preview_master_a-master.css" crc="4033017482" ref="index:home-es:home-ru"/>
     <file name="index.css" crc="4175991166" ref="index"/>
     <file name="nomq_index.css" crc="250486004" ref="index"/>
-    <file name="home-esp.css" crc="419472162" ref="home-esp"/>
-    <file name="nomq_home-esp.css" crc="199077927" ref="home-esp"/>
-    <file name="home-rus.css" crc="4142062999" ref="home-rus"/>
-    <file name="nomq_home-rus.css" crc="4015863529" ref="home-rus"/>
+    <file name="home-es.css" crc="419472162" ref="home-es"/>
+    <file name="nomq_home-es.css" crc="199077927" ref="home-es"/>
+    <file name="home-ru.css" crc="4142062999" ref="home-ru"/>
+    <file name="nomq_home-ru.css" crc="4015863529" ref="home-ru"/>
   </folder>
   <folder name="fonts">
     <file name="galanogrotesque-regular.woff" crc="4039148451"/>
@@ -25,18 +25,18 @@
     <file name="galanogrotesque-thin.svg" crc="3784798418"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:home-esp:home-rus"/>
-    <file name="museutils.js" crc="3803043152" ref="index:home-esp:home-rus"/>
-    <file name="whatinput.js" crc="86476730" ref="index:home-esp:home-rus"/>
-    <file name="museconfig.js" crc="380897831" ref="index:home-esp:home-rus"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:home-esp:home-rus"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:home-esp:home-rus"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:home-esp:home-rus"/>
-    <file name="require.js" crc="4157109226" ref="index:home-esp:home-rus"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:home-es:home-ru"/>
+    <file name="museutils.js" crc="3803043152" ref="index:home-es:home-ru"/>
+    <file name="whatinput.js" crc="86476730" ref="index:home-es:home-ru"/>
+    <file name="museconfig.js" crc="380897831" ref="index:home-es:home-ru"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:home-es:home-ru"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:home-es:home-ru"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:home-es:home-ru"/>
+    <file name="require.js" crc="4157109226" ref="index:home-es:home-ru"/>
   </folder>
   <folder name="images">
-    <file name="bg-u273-fr.png" crc="536643459" ref="index:home-esp:home-rus"/>
-    <file name="logow.png" crc="350287556" ref="index:home-esp:home-rus">
+    <file name="bg-u273-fr.png" crc="536643459" ref="index:home-es:home-ru"/>
+    <file name="logow.png" crc="350287556" ref="index:home-es:home-ru">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -49,47 +49,59 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="home-esp" alt=""/>
-      <caption webpage="home-esp" alt=""/>
-      <caption webpage="home-esp" alt=""/>
-      <caption webpage="home-esp" alt=""/>
-      <caption webpage="home-esp" alt=""/>
-      <caption webpage="home-esp" alt=""/>
       <caption webpage="home-rus" alt=""/>
       <caption webpage="home-rus" alt=""/>
       <caption webpage="home-rus" alt=""/>
       <caption webpage="home-rus" alt=""/>
       <caption webpage="home-rus" alt=""/>
       <caption webpage="home-rus" alt=""/>
+      <caption webpage="home-ru" alt=""/>
+      <caption webpage="home-ru" alt=""/>
+      <caption webpage="home-ru" alt=""/>
+      <caption webpage="home-ru" alt=""/>
+      <caption webpage="home-ru" alt=""/>
+      <caption webpage="home-ru" alt=""/>
+      <caption webpage="home-esp" alt=""/>
+      <caption webpage="home-esp" alt=""/>
+      <caption webpage="home-esp" alt=""/>
+      <caption webpage="home-esp" alt=""/>
+      <caption webpage="home-esp" alt=""/>
+      <caption webpage="home-esp" alt=""/>
+      <caption webpage="home-es" alt=""/>
+      <caption webpage="home-es" alt=""/>
+      <caption webpage="home-es" alt=""/>
+      <caption webpage="home-es" alt=""/>
+      <caption webpage="home-es" alt=""/>
+      <caption webpage="home-es" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:home-esp:home-rus"/>
-    <file name="data.jpg" crc="4130813998" ref="index:home-esp:home-rus">
+    <file name="blank.gif" crc="4208392903" ref="index:home-es:home-ru"/>
+    <file name="data.jpg" crc="4130813998" ref="index:home-es:home-ru">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="block.jpg" crc="327672897" ref="index:home-esp:home-rus">
+    <file name="block.jpg" crc="327672897" ref="index:home-es:home-ru">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="riks.jpg" crc="367248274" ref="index:home-esp:home-rus">
+    <file name="riks.jpg" crc="367248274" ref="index:home-es:home-ru">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="vr.jpg" crc="193369628" ref="index:home-esp:home-rus">
+    <file name="vr.jpg" crc="193369628" ref="index:home-es:home-ru">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="media.jpg" crc="4247734193" ref="index:home-esp:home-rus">
+    <file name="media.jpg" crc="4247734193" ref="index:home-es:home-ru">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="forecast.jpg" crc="4293609027" ref="index:home-esp:home-rus">
+    <file name="forecast.jpg" crc="4293609027" ref="index:home-es:home-ru">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="lead.jpg" crc="50429296" ref="index:home-esp:home-rus">
+    <file name="lead.jpg" crc="50429296" ref="index:home-es:home-ru">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="data-u312-fr.jpg" crc="341407078" ref="index:home-esp:home-rus"/>
-    <file name="block-u381-fr.jpg" crc="21282949" ref="index:home-esp:home-rus"/>
-    <file name="riks-u393-fr.jpg" crc="295733743" ref="index:home-esp:home-rus"/>
-    <file name="vr-u490-fr.jpg" crc="178538788" ref="index:home-esp:home-rus"/>
-    <file name="media-u503-fr.jpg" crc="3880209897" ref="index:home-esp:home-rus"/>
-    <file name="forecast-u516-fr.jpg" crc="3937490087" ref="index:home-esp:home-rus"/>
+    <file name="data-u312-fr.jpg" crc="341407078" ref="index:home-es:home-ru"/>
+    <file name="block-u381-fr.jpg" crc="21282949" ref="index:home-es:home-ru"/>
+    <file name="riks-u393-fr.jpg" crc="295733743" ref="index:home-es:home-ru"/>
+    <file name="vr-u490-fr.jpg" crc="178538788" ref="index:home-es:home-ru"/>
+    <file name="media-u503-fr.jpg" crc="3880209897" ref="index:home-es:home-ru"/>
+    <file name="forecast-u516-fr.jpg" crc="3937490087" ref="index:home-es:home-ru"/>
     <file name="social_facebook_circle.png" crc="3930820923" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -127,10 +139,10 @@
     <file name="flag_of_mexico_poster_u3555.png" crc="486895110" ref="index"/>
     <file name="20120812153730!flag_of_russia.svg" crc="4101030087" ref="index"/>
     <file name="20120812153730!flag_of_russia_poster_u3563.png" crc="3833047806" ref="index"/>
-    <file name="home-esp-favicon.ico" crc="4055264074" ref="home-esp"/>
-    <file name="home-rus-favicon.ico" crc="4055264074" ref="home-rus"/>
+    <file name="home-es-favicon.ico" crc="4055264074" ref="home-es"/>
+    <file name="home-ru-favicon.ico" crc="4055264074" ref="home-ru"/>
   </folder>
-  <file name="index.html" crc="4206982416" seo="true" mt="1607937027711" redirect="true"/>
-  <file name="home-esp.html" crc="42301132" seo="true" mt="1607937027711" redirect="true"/>
-  <file name="home-rus.html" crc="19999892" seo="true" mt="1607937027711" redirect="true"/>
+  <file name="index.html" crc="94735042" seo="true" mt="1607937197846" redirect="true"/>
+  <file name="home-es.html" crc="4208457585" seo="true" mt="1607937197848" redirect="true"/>
+  <file name="home-ru.html" crc="313254879" seo="true" mt="1607937197846" redirect="true"/>
 </manifest>
